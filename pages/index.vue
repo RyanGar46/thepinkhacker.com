@@ -11,7 +11,7 @@
                 to="/project/apollo">
                 Apollo
             </ProjectGalleryCard>
-            <ProjectGalleryCard image="https://cdn.modrinth.com/data/FRSckbRo/icon.png" to="/project/classic-3d">
+            <ProjectGalleryCard image="/image/icon/classic_3d.webp" to="/project/classic-3d">
                 Classic 3D
             </ProjectGalleryCard>
             <ProjectGalleryCard image="https://media.forgecdn.net/avatars/569/858/637930634199896245.png"

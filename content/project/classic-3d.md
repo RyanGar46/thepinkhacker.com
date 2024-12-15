@@ -1,5 +1,5 @@
 ---
-logo: https://cdn.modrinth.com/data/FRSckbRo/icon.png
+logo: /image/icon/classic_3d.webp
 title: Classic 3D
 description: Classic 3D is a resourcepack aimed at adding more detail to the models in Minecraft while preserving the overall look and feel.
 projectLinks:
